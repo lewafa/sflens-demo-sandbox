@@ -1,0 +1,10 @@
+.DS_Store
+.sfdx/
+.vscode/
+config/
+manifest/
+eslint.config.js
+jest.config.js
+package-lock.json
+package.json
+sfdx-project.json
